@@ -1,7 +1,7 @@
 # Spreadsheet-Compare-Script
 A command line interface for calling Spreadsheetcompare.exe included with MS office (some versions)
 
-## details
+## Details
 
 This script allows calls to the spreadsheetcompare.exe the location of the exe is:
 
